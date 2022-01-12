@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maryiapintea
 - 👀 I’m interested in Data Science, Big Analytics and AI for Molecular Processing and Engineering Applications
-- 🌱 I’m currently learning how Netflix buit its database using Apache Cassandra.
+- 🌱 I’m currently learning how Netflix built its database using Apache Cassandra.
 - 💞️ I’m looking to collaborate on various interesting projects.
 - 📫 How to reach me *drop a message at #maryiapintea5 
 
